@@ -8,6 +8,8 @@
 - res10_300x300_ssd_iter_140000.caffemodel
 - deploy.prototxt.txt
 
+**openface model** https://cmusatyalab.github.io/openface/models-and-accuracies/
+- openface_nn4.small2.v1.t7
 
 **git**
 ```
