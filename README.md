@@ -1,6 +1,10 @@
 # Extracting and clustering dlib face embeddings
 
 dlib models: https://github.com/davisking/dlib-models
+> dlib_face_recognition_resnet_model_v1.dat
+> shape_predictor_68_face_landmarks.dat
+
+
 
 **git**
 ```
