@@ -17,4 +17,4 @@ dataset = os.path.join('c:/', 'Coding', '5_FaceSVM', 'dataset')
 
 **results**
 
-<image src='https://github.com/chacoff/FaceDLIBOpenFAce/blob/main/models/dataset_git.png' width='360'>
+<image src='https://github.com/chacoff/FaceDLIBOpenFAce/blob/main/models/dataset_git.png' width='420'>
