@@ -11,6 +11,18 @@
 **openface model** https://cmusatyalab.github.io/openface/models-and-accuracies/
 - openface_nn4.small2.v1.t7
 
+**Conda enviroment**
+```
+conda activate <env>
+conda install pip
+pip freeze > requirements_ingfisica.txt
+```
+**PIP enviroment**
+```
+python3 -m venv env
+source env/bin/activate
+pip install -r requirements_ingfisica.txt
+
 **git**
 ```
 $ git clone https://github.com/chacoff/FaceDLIBOpenFAce
