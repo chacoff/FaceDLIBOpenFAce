@@ -1,9 +1,12 @@
 # Extracting and clustering dlib face embeddings
 
-dlib models: https://github.com/davisking/dlib-models
+**dlib models:** https://github.com/davisking/dlib-models
 - dlib_face_recognition_resnet_model_v1.dat
 - shape_predictor_68_face_landmarks.dat
 
+**caffemodel** https://github.com/gopinath-balu/computer_vision/tree/master/CAFFE_DNN
+- res10_300x300_ssd_iter_140000.caffemodel
+- deploy.prototxt.txt
 
 
 **git**
